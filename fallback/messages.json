@@ -1,13 +1,13 @@
 {
-  "400": "Bad request. The parameters provided are invalid.",
-  "401": "Unauthorized access. Please authenticate before proceeding.",
-  "403": "Access forbidden. You do not have the necessary permissions.",
-  "404": "The requested resource could not be found.",
-  "500": "Internal server error. Please try again later.",
-  "502": "Bad gateway. An upstream service failed to respond correctly.",
-  "503": "Service unavailable. The system is currently undergoing maintenance.",
-  "504": "Gateway timeout. The response from the upstream server timed out.",
-  "default": "An unexpected error has occurred.",
-  "fatal": "A critical error occurred while initializing the system.",
-  "loadError": "Failed to load error configuration:"
+  "400": "Неправильный запрос. Ты, видимо, спутал координаты.",
+  "401": "Ты не авторизован для этого полёта.",
+  "403": "Доступ запрещён. Сектор закрыт.",
+  "404": "Упс, кажется ты улетел не туда…",
+  "500": "Сервер перегрелся. Сейчас остынет...",
+  "502": "Плохой шлюз. Космос не отвечает.",
+  "503": "Сервис временно недоступен. Ракета на дозаправке.",
+  "504": "Таймаут. Ответ не успел вернуться с орбиты.",
+  "default": "Произошла неизвестная ошибка...",
+  "fatal": "Космос сломался, но мы уже чиним…",
+  "loadError": "Ошибка при загрузке конфигурации ошибок:"
 }
