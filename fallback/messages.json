@@ -1,0 +1,13 @@
+{
+  "400": "Bad request. The parameters provided are invalid.",
+  "401": "Unauthorized access. Please authenticate before proceeding.",
+  "403": "Access forbidden. You do not have the necessary permissions.",
+  "404": "The requested resource could not be found.",
+  "500": "Internal server error. Please try again later.",
+  "502": "Bad gateway. An upstream service failed to respond correctly.",
+  "503": "Service unavailable. The system is currently undergoing maintenance.",
+  "504": "Gateway timeout. The response from the upstream server timed out.",
+  "default": "An unexpected error has occurred.",
+  "fatal": "A critical error occurred while initializing the system.",
+  "loadError": "Failed to load error configuration:"
+}
